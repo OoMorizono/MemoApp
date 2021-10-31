@@ -11,7 +11,7 @@ class ViewController: UIViewController,UITextViewDelegate {
     
     @IBOutlet weak var textView: UITextView!
 
-    
+    //テスト用のコメントだよ
     override func viewDidLoad() {
         super.viewDidLoad()
         // Do any additional setup after loading the view.
